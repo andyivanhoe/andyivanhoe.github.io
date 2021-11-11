@@ -87,6 +87,7 @@ Build and deploy machine learning models in Python or R
 ### Future additions
     - Generative Adversarial Networks (GANS)
     - Reinforcement learning (CV)
+    - Linear programming and optiization using Pyomo
     - Computer Visions (Mask-RCNN)
 
 
