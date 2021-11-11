@@ -4,7 +4,7 @@ I enjoy the whole data science process, from getting stuck in to understanding t
 
 ### Overview        #TODO: Make these hyperlinks to the correct section
 
-Set-up (#set-up)
+[Set-up](#set-up)
 
 Exploratory data analysis
 
