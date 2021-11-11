@@ -72,7 +72,11 @@ Build and deploy machine learning models in Python or R
 #TODO: Upload some of my notebooks from NLP training
 
 ### Knowledge Graphs
+
+https://towardsdatascience.com/knowledge-graph-bb78055a7884
+
 #TODO: May combine with NLP in future
+
 
 ### Shiny Dashboards
 
