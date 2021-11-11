@@ -1,6 +1,6 @@
 ## Andy Symonds - Data Science Portfolio
 
-I enjoy the whole data science process, from getting stuck in understanding the data with some 'munging', to building machine learning models and deploying them for consumption. Machine learning models are only good if they get used and continue to serve the purpose they were designed for, so continuous integration and deployment and MLOps is essential.
+I enjoy the whole data science process, from getting stuck in to understanding the data with some 'munging', to building machine learning models and deploying them for consumption. Machine learning models are only good if they get used and continue to serve the purpose they were designed for, so continuous integration and deployment and MLOps is essential.
 
 ### Overview
 
