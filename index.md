@@ -91,7 +91,7 @@ One exists already: https://www.eurekalert.org/news-releases/845976
 #TODO: Complete DP-100 so that I can link a badge to here (or at least to my LinkedIn that can show the badge
 
 ### CI-CD and MLOps
-
+    - Containerization with Docker and Kubernetes
 
 ### Future additions
     - Generative Adversarial Networks (GANS)
