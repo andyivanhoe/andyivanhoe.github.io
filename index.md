@@ -6,15 +6,15 @@ I enjoy the whole data science process, from getting stuck in to understanding t
 
 [Set-up](#set-up)
 
-[Exploratory data analysis](#exploratory data analysis)
+[Exploratory data analysis](#exploratory-data-analysis)
 
 [Build and deploy machine learning models in Python or R](#models)
 
-[Design & deploy Shiny dashboards to visualise data and consume ML models](#shiny dashboards)
+[Design & deploy Shiny dashboards to visualise data and consume ML models](#shiny-dashboards)
 
-[Microsoft Azure](#microsoft azure)
+[Microsoft Azure](#microsoft-azure)
 
-[Continuous Integration and Continuous Deployment with GitHub Actions](#ci-cd & mlops)
+[Continuous Integration and Continuous Deployment with GitHub Actions](#ci-cd-&-mlops)
 
 MLOps
 
