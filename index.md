@@ -75,6 +75,8 @@ Build and deploy machine learning models in Python or R
 
 https://towardsdatascience.com/knowledge-graph-bb78055a7884
 
+https://medium.com/analytics-vidhya/build-a-knowledge-graph-using-neo4j-eb7490799f4b
+
 #TODO: Make a knowledge graph in neo4j of brain regions --> and how they compare between different species, perhaps gene networks of polarity
 One exists already: https://www.eurekalert.org/news-releases/845976
 
