@@ -2,19 +2,19 @@
 
 I enjoy the whole data science process, from getting stuck in to understanding the data with some 'munging', to building machine learning models and deploying them for consumption. Machine learning models are only good if they get used and continue to serve the purpose they were designed for, so continuous integration and deployment and MLOps is essential.
 
-### Overview        #TODO: Make these hyperlinks to the correct section
+### Overview
 
 [Set-up](#set-up)
 
-Exploratory data analysis
+[Exploratory data analysis](#exploratory data analysis)
 
-Build and deploy machine learning models in Python or R
+[Build and deploy machine learning models in Python or R](#models)
 
-Design & deploy Shiny dashboards to visualise data and consume ML models
+[Design & deploy Shiny dashboards to visualise data and consume ML models](#shiny dashboards)
 
-Azure & Azure Data Scientist Associate, Microsoft Certification
+[Microsoft Azure](#microsoft azure)
 
-Continuous Integration and Continuous Deployment with GitHub Actions
+[Continuous Integration and Continuous Deployment with GitHub Actions](#ci-cd & mlops)
 
 MLOps
 
