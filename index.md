@@ -76,6 +76,7 @@ Build and deploy machine learning models in Python or R
 https://towardsdatascience.com/knowledge-graph-bb78055a7884
 
 #TODO: Make a knowledge graph in neo4j of brain regions --> and how they compare between different species, perhaps gene networks of polarity
+One exists already: https://www.eurekalert.org/news-releases/845976
 
 #TODO: May combine with NLP in future
 
