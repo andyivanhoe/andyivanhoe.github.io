@@ -14,7 +14,7 @@ I enjoy the whole data science process, from getting stuck in to understanding t
 
 [Microsoft Azure](#microsoft-azure)
 
-[Continuous Integration and Continuous Deployment with GitHub Actions](#ci-cd-&-mlops)
+[Continuous Integration and Continuous Deployment with GitHub Actions](#ci-cd-and-mlops)
 
 MLOps
 
@@ -88,7 +88,7 @@ One exists already: https://www.eurekalert.org/news-releases/845976
 
 #TODO: Complete DP-100 so that I can link a badge to here (or at least to my LinkedIn that can show the badge
 
-### CI-CD & MLOps
+### CI-CD and MLOps
 
 
 ### Future additions
