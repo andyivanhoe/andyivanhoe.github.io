@@ -85,6 +85,7 @@ One exists already: https://www.eurekalert.org/news-releases/845976
 
 ### Shiny Dashboards
 
+#TODO: Integrate neo4j database and a shiny app: https://hackmd.io/@L8_M7Qc5S2-gzVJ5l1F-ig/integrating_neo4j_shiny
 
 ### Microsoft Azure
 
